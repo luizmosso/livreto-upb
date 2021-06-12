@@ -1,0 +1,12 @@
+export { default as BorderedBox } from './BorderedBox';
+export { default as ColoredBox } from './ColoredBox';
+export { default as Document } from './Document';
+export { default as Double } from './Double';
+export { default as Logo } from './Logo';
+export { default as Page } from './Page';
+export { default as Picture } from './Picture';
+export { default as PlainText } from './PlainText';
+export { default as Rainbow } from './Rainbow';
+export { default as Side } from './Side';
+export { default as Title } from './Title';
+export { default as FooterText } from './FooterText';
